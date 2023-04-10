@@ -1,1 +1,2 @@
 # odin-recipes
+This website will contain several basic recipes - the site will be written in **HTML only.** I plan to demonstrate my knowledge of basic HTML (Tagging, Elements, Attributes, Linking and Listing)
